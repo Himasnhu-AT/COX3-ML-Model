@@ -1,5 +1,4 @@
 # COX3-ML-Model
-Based on dataset: https://www.kaggle.com/datasets/andyczhao/covidx-cxr2
 This repository contains code for building and training an image classification model using the EfficientNetB3 architecture. The model is trained on a dataset of images and can predict the diagnosis of a given image.
 
 ## Requirements
